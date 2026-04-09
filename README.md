@@ -3,103 +3,103 @@
 
 ---
 
-using journey mode (many times)
+- using journey mode (many times)
 
-using old one's army gear
+- using old one's army gear
 
-choosing a world evil instead of picking random
+- choosing a world evil instead of picking random
 
-pre mech duke fishron
+- pre mech duke fishron
 
-tank summoner
+- tank summoner
 
-facetanking plantera
+- facetanking plantera
 
-green thread exploit for money
+- green thread exploit for money
 
-playing multiplayer on classic
+- playing multiplayer on classic
 
-playing the drunk seed
+- playing the drunk seed
 
-world hopping
+- world hopping
 
-fishing for chest loot
+- fishing for chest loot
 
-using summons when not playing pure summoner
+- using summons when not playing pure summoner
 
-destroyer coil kill
+- destroyer coil kill
 
-using piercing weapons on worm enemies (mainly EoW, destroyer and wyverns)
+- using piercing weapons on worm enemies (mainly EoW, destroyer and wyverns)
 
-autofire setting
+- autofire setting
 
-using gloves for whips
+- using gloves for whips
 
-using flasks for whips
+- using flasks for whips
 
-duplicating water
+- duplicating water
 
-making artificial opposite evil biome
+- making artificial opposite evil biome
 
-hoiks
+- hoiks
 
-artificial hallow biome pre-hardmode (for fishing)
+- artificial hallow biome pre-hardmode (for fishing)
 
-zombies with zombie arms
+- zombies with zombie arms
 
-minecarts for bosses
+- minecarts for bosses
 
-mounts (especially infinite flight)
+- mounts (especially infinite flight)
 
-cheesing bosses
+- cheesing bosses
 
-tier skipping
+- tier skipping
 
-using arms dealer + nurse for pylons (doesn't apply post 1.4.5)
+- using arms dealer + nurse for pylons (doesn't apply post 1.4.5)
 
-heart statues
+- heart statues
 
-soaring insignia
+- soaring insignia
 
-getting hellstone pre-evil
+- getting hellstone pre-evil
 
-building a farm
+- building a farm
 
-beating pre-hardmode without killing the evil boss
+- beating pre-hardmode without killing the evil boss
 
-using guide name method to find shimmer
+- using guide name method to find shimmer
 
-using the wiki
+- using the wiki
 
-getting dyes with inventory editors
+- getting dyes with inventory editors
 
-dropping the guide in lava without using voodoo doll
+- dropping the guide in lava without using voodoo doll
 
-master ninja gear (for dodge chance and dash without SoC)
+- master ninja gear (for dodge chance and dash without SoC)
 
-reforging
+- reforging
 
-fishing in general
+- fishing in general
 
-using the nurse to heal mid-bossfight
+- using the nurse to heal mid-bossfight
 
-buff potions
+- buff potions
 
-hallowed armor
+- hallowed armor
 
-armor mixing
+- armor mixing
 
-obsidian armor
+- obsidian armor
 
-having more than 7 summons
+- having more than 7 summons
 
-playing any of the 4 classes
+- playing any of the 4 classes
 
-using mods to build an arena
+- using mods to build an arena
 
-using the shimmer in general
+- using the shimmer in general
 
-fledgling wings
+- fledgling wings
 
-using rod of discord
+- using rod of discord
 
