@@ -1,5 +1,7 @@
-List of things the terraria discord server claimed are cheating:
-DISCLAIMER: i do not believe any of these things are cheating, those are just things i've seen in #terraria-chat
+# List of things the terraria discord server claimed are cheating:
+## DISCLAIMER: i do not believe any of these things are cheating, those are just things i've seen in #terraria-chat
+
+---
 
 using journey mode (many times)
 using old one's army gear
@@ -49,3 +51,5 @@ having more than 7 summons
 playing any of the 4 classes
 using mods to build an arena
 using the shimmer in general
+fledgling wings
+using rod of discord
